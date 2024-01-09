@@ -295,7 +295,7 @@ Việc trích xuất kiến thức từ các tập dữ liệu lớn này đư�
 
 (KTQD, 2019) Quá trình khám phá tri thức gồm các bước:
 
-![](media/e2758d5570e25af22b410175eb00dcba.png)
+[![](media/e2758d5570e25af22b410175eb00dcba.png)](https://github.com/dinhtatthanh212/Capstone-Project/issues/new)
 
 Hình 2.21 Quy trình khám phá tri thức
 
