@@ -293,7 +293,13 @@ Việc trích xuất kiến thức từ các tập dữ liệu lớn này đư�
 
 ### Quy trình khám phá tri thức
 
-(KTQD, 2019) Quá trình khám phá tri thức gồm các bước sau:
+(KTQD, 2019) Quá trình khám phá tri thức gồm các bước:
+
+![](media/e2758d5570e25af22b410175eb00dcba.png)
+
+Hình 2.21 Quy trình khám phá tri thức
+
+*Nguồn: Giáo trình Phát hiện tri thức từ dữ liệu, ĐH KTQD*
 
 -   **Bước 1:** Hiểu về miền dữ liệu. Bước này bao gồm việc học kiến thức có liên quan trước đó và mục tiêu của người dùng cuối mà kiến thức đã khám phá sẽ mang lại cho họ.
 -   **Bước 2:** Chọn lọc tập dữ liệu (Selection). Mục tiêu chính là tạo ra một tệp dữ liệu đích từ dữ liệu gốc. Tức là chọn một tập hợp con các biến hoặc mẫu dữ liệu trên đó thực hiện các khám phá.
